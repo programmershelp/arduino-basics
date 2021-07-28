@@ -5,6 +5,6 @@ basics of arduino development
 
 | Description        | Link           |
 | ------------- |:-------------:|
-| Arduino Hardware    | [Arduino Hardware](../blob/main/hardware.md)|
-| Pin descriptions     | [Pin descripitons](../blob/main/pin%20description.md)      |
+| Arduino Hardware    | [Arduino Hardware](../main/hardware.md)|
+| Pin descriptions     | [Pin descripitons](../main/pin%20description.md)      |
 |  |     |
