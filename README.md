@@ -1,5 +1,6 @@
 # arduino-basics
-basics of arduino development
+
+The basics of arduino development, this is a collection of tutorials covering the very basics
 
 ### Hardware
 
